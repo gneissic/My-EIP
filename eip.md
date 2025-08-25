@@ -2,7 +2,7 @@
 
 **Type:** Standards Track  
 **Category:** ERC-20
-**Created:** 2025-08-25  
+**Created:** 2025-08-10  
 **Author:** Nwodoh Joseph
 **Requires:** EIP-20, EIP-721, EIP-4626
 
